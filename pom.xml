@@ -95,6 +95,11 @@
                 <enabled>false</enabled>
             </snapshots>
         </repository>
+		<repository>
+			<id>neo4j</id>
+			<name>neo</name>
+			<url>https://plugins.xebialabs.com/nexus/content/groups/public</url>
+		</repository>
     </repositories>
     <pluginRepositories>
         <pluginRepository>
